@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on [Reelify](https://reelify.store/)
+
 - 🌱 I’m currently learning **Remix.js**
 - 👯 I’m looking to collaborate on **Building MERN Stack web applications**
 - 💬 Ask me about **React, Next.js, AWS EC2, Blockchain**
@@ -116,20 +116,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maanas777&show_icons=true&locale=en" alt="maanas777" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maanas777&" alt="maanas777" />
-</p>
-
----
-
-### 📊 LeetCode Stats:
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/?username=maanas777" alt="LeetCode Stats" />
-</p>
-
----
-
-### 🐍 GitHub Snake Animation:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maanas777/maanas777/output/snake.svg" alt="GitHub Snake Animation" />
-</p>
